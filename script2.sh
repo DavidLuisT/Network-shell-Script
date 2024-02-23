@@ -35,6 +35,6 @@ date > Fecha
 echo "Red de información"
 netstat > Informacion-De_Red
 
-#Mostrar nombre
+#Mostrar nombres
 echo "Nombres"
 hostname
