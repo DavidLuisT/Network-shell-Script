@@ -14,3 +14,8 @@ echo " the command is running"
 
 #comando 3: netstat
 echo "Resultado del comando netstat"
+
+#comando 4: ping
+read -p "ingrese una dirreccion IP par hacer ping:" ip_address
+echo "Resultados del comando ping hacia $ip_address:"
+ping $ip_address
