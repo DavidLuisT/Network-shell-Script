@@ -30,3 +30,7 @@ ping -c 4 $ip_address
 #Mostrar fecha actual
 echo "Mostrar fecha actual"
 date > Fecha
+
+#Informacion Actual
+echo "Red de información"
+netstat > Informacion-De_Red
