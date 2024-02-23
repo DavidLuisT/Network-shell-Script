@@ -11,3 +11,6 @@ echo "Executing a command in the background"
 command_to_run="start /b notepad.exe"
 nohup $command_to_run > output.txt 2>&1 &
 echo " the command is running"
+
+#comando 3: netstat
+echo "Resultado del comando netstat"
