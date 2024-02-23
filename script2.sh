@@ -19,7 +19,7 @@ echo "Resultado del comando netstat"
 read -p "ingrese una dirreccion IP par hacer ping:" ip_address
 echo "Resultados del comando ping hacia $ip_address:"
 ping $ip_address
-
+14
 # pedir dirreccion IP
 echo "por favor ingresa una direccion IP:"
 read ip_address
