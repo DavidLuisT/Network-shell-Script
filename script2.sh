@@ -26,3 +26,5 @@ read ip_address
 
 # comando 1: Ping a la dirrección IP
 ping -c 4 $ip_address
+
+
